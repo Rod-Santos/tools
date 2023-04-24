@@ -22,3 +22,7 @@ Este script de instalação e configuração do Ubuntu contém diversas opções
 2. Dê permissão de execução ao arquivo: `chmod +x tools.sh`
 3. Execute o script: `./tools.sh`
 4. Selecione a opção desejada digitando o número correspondente e pressionando Enter.
+
+**Criado por Rodrigo Santos**
+
+[![GitHub](https://img.icons8.com/nolan/50/github.png)](https://github.com/Rod-Santos) [![LinkedIn](https://img.icons8.com/nolan/50/linkedin.png)](https://www.linkedin.com/in/rodrigodasilvasantos/)
