@@ -25,4 +25,4 @@ Este script de instalação e configuração do Ubuntu contém diversas opções
 
 **Criado por Rodrigo Santos**
 
-[![GitHub](https://img.icons8.com/nolan/50/github.png)](https://github.com/Rod-Santos) [![LinkedIn](https://img.icons8.com/nolan/50/linkedin.png)](https://www.linkedin.com/in/rodrigodasilvasantos/)
+[![GitHub](https://img.icons8.com/nolan/50/github.png)](https://github.com/dasilva95Ro) [![LinkedIn](https://img.icons8.com/nolan/50/linkedin.png)](https://www.linkedin.com/in/rodrigodasilvasantos/)
